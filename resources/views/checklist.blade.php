@@ -389,7 +389,7 @@ perundangan & Perusahaan, Atau jika diperlukan<br>maka di ajukan ijin kelebihan 
             </br></p></td>
             <td><p style="font-size: 12px; font-family:Arial;"><b>
                 <br><input type="checkbox"> &nbsp; Air &nbsp;<input type="checkbox" style="margin-left: 70px;"> &nbsp; Bahan Kimia, sebutkan <input type="text">
-                <br><input type="checkbox"> &nbsp; Dry Cleaning &nbsp;<input type="checkbox" style="margin-left: 12px;"> &nbsp; Lainnya, sebutkan <input type="text">
+                <br><input type="checkbox"> &nbsp; Vacumm cleaner &nbsp;<input type="checkbox" style="margin-left: 12px;"> &nbsp; Lainnya, sebutkan <input type="text">
             </br></p></td>
         </tr>
         <tr>
@@ -399,7 +399,7 @@ perundangan & Perusahaan, Atau jika diperlukan<br>maka di ajukan ijin kelebihan 
             </br></p></td>
             <td><p style="font-size: 12px; font-family:Arial;"><b>
                 <br><input type="checkbox"> &nbsp; Air &nbsp;<input type="checkbox" style="margin-left: 70px;"> &nbsp; Bahan Kimia, sebutkan <input type="text">
-                <br><input type="checkbox"> &nbsp; Dry Cleaning &nbsp;<input type="checkbox" style="margin-left: 12px;"> &nbsp; Lainnya, sebutkan <input type="text">
+                <br><input type="checkbox"> &nbsp; Vacumm cleaner &nbsp;<input type="checkbox" style="margin-left: 12px;"> &nbsp; Lainnya, sebutkan <input type="text">
             </br></p></td>
         </tr>
         <tr>
