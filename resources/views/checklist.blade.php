@@ -66,7 +66,7 @@
                 <td rowspan="2"><img src="{{url('/logo.png')}}" alt="Image" /></td>
                 <td rowspan="4">No. Dokumen&emsp; : &nbsp; <input type="text" name="nodokumen" autofocus autocomplete="off">
                     <br><br>Tgl.Dikeluarkan&nbsp;: &nbsp; <input type="date" name="nodokumen" autocomplete="off">
-                    <br><br>Halaman &emsp; &emsp; &ensp;: &nbsp; 1 /2
+                    <br><br>Halaman &emsp; &emsp; &ensp;: &nbsp; 1 /4
                     <br><br>No.revisi &emsp; &emsp; &ensp;: &nbsp; <input type="text" name="nodokumen" autocomplete="off">
                 </td>
             </tr>
@@ -427,7 +427,7 @@ perundangan & Perusahaan, Atau jika diperlukan<br>maka di ajukan ijin kelebihan 
                 <td rowspan="2"><img src="{{url('/logo.png')}}" alt="Image" /></td>
                 <td rowspan="4">No. Dokumen&emsp; : &nbsp; <input type="text" name="nodokumen" autofocus autocomplete="off">
                     <br><br>Tgl.Dikeluarkan&nbsp;: &nbsp; <input type="date" name="nodokumen" autocomplete="off">
-                    <br><br>Halaman &emsp; &emsp; &ensp;: &nbsp; 2 /2
+                    <br><br>Halaman &emsp; &emsp; &ensp;: &nbsp; 3 /4
                     <br><br>No.revisi &emsp; &emsp; &ensp;: &nbsp; <input type="text" name="nodokumen" autocomplete="off">
                 </td>
             </tr>
